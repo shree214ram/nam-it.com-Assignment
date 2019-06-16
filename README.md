@@ -28,7 +28,7 @@ Lucas Florey is collapsed), with a functional toggle for Driver/Non-Driver and -
 to add/remove hours
 ● Search functionality is optional
 
-![coverage report](https://github.com/shree214ram/nam-it.com-Assignment/blob/master/assets/images/GanttTimeline.png?raw=true)
+![coverage report](https://github.com/shree214ram/nam-it.com-Assignment/blob/master/Screen%20Shot%202019-06-16%20at%206.32.39%20PM.png?raw=true)
 
 ## Description
 
@@ -43,7 +43,7 @@ Important Keys :
 
 Steps for use :
 
-* Take a git clone https://github.com/shree214ram/Compassite-Task.
+* Take a git clone https://github.com/shree214ram/nam-it.com-Assignment.
 * Go to in this folder.
 * Run `npm install` command.
 * Run `npm start` command.
