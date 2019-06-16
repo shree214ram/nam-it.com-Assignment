@@ -11,22 +11,24 @@
 
 
 Instructions
-You are required to use the latest version of React JS to implement your solution. All source code needs to be submitted through a GitHub repository link. Upon submission, you will be evaluated based on this criteria:
-❏ Code Quality (includes commenting and approach) ❏ Code structure including architecture & design
-❏ Solution completeness
+
+* You are required to use the latest version of React JS to implement your solution. All source code needs to be submitted through a GitHub repository link. Upon submission, you will be evaluated based on this criteria:
+* Code Quality (includes commenting and approach) ❏ Code structure including architecture & design
+* Solution completeness
+
 
 Requirements
-You are expected to implement the two screens defined in the User Interface. You should define the JSON structure of the data to be consumed by the client and use mock data to simulate server responses.
+* You are expected to implement the two screens defined in the User Interface. You should define the JSON structure of the data to be consumed by the client and use mock data to simulate server responses.
 Your solution should include at least:
-● Definition of JSON request/responses for each screen
-● User Interface matching the provided design
-● Scrollable list showing  Today’s Jobs
-● Scrollable list showing  Employees
-● Menu and navigation Back button (both on header - with dummy menu items)
-● Each employee list item should be expandable (i.e. Thomas Mumford is expanded, while
+* Definition of JSON request/responses for each screen
+* User Interface matching the provided design
+* Scrollable list showing  Today’s Jobs
+* Scrollable list showing  Employees
+* Menu and navigation Back button (both on header - with dummy menu items)
+* Each employee list item should be expandable (i.e. Thomas Mumford is expanded, while
 Lucas Florey is collapsed), with a functional toggle for Driver/Non-Driver and - + icons
 to add/remove hours
-● Search functionality is optional
+* Search functionality is optional
 
 ![coverage report](https://github.com/shree214ram/nam-it.com-Assignment/blob/master/Screen%20Shot%202019-06-16%20at%206.32.39%20PM.png?raw=true)
 
