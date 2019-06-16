@@ -49,7 +49,7 @@ Steps for use :
 * Go to in this folder.
 * Run `npm install` command.
 * Run `npm start` command.
-* Extract  `src,config,asset` command.
+* Extract  `src,config,asset` Folder, actually i was not able to push via command prompt so Upload Directely.
 * Run http://localhost:8080
 ## Folder Structure
 
