@@ -49,6 +49,8 @@ Steps for use :
 * Go to in this folder.
 * Run `npm install` command.
 * Run `npm start` command.
+* Extract  `src,config,asset` command.
+* Run http://localhost:8080
 ## Folder Structure
 
 After creation, your project should look like this:
